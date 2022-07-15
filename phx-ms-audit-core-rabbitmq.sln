@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phx-ms-audit-core-rabbitmq", "phx-ms-audit-core-rabbitmq.csproj", "{CF66AA99-1FE3-4EEC-A31E-8C928D95E779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF66AA99-1FE3-4EEC-A31E-8C928D95E779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF66AA99-1FE3-4EEC-A31E-8C928D95E779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF66AA99-1FE3-4EEC-A31E-8C928D95E779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF66AA99-1FE3-4EEC-A31E-8C928D95E779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0039E996-DCBD-463D-81EA-FA897EAC0BFF}
+	EndGlobalSection
+EndGlobal
